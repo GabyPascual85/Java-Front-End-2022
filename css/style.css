@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar-brand img {width: 100px}
+
+#boton_verde
+{
+    color: #25a342;
+  
+}
+
+#tabla{
+position: absolute;
+top: 20%;
+
+   
+}
+
+#a_Pagar{
+background-color:powderblue;
+height: 40px;
+position: relative;
+
+}
+
+#btnResumen, #btnBorrar {
+
+    background-color:rgb(139, 210, 61);
+}
+
+
+.navbar_ult{background-color:rgb(30, 57, 88);}
+
+#texto_final
+{
+    margin-left:200px;
+    text-align: justify;
+}
